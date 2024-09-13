@@ -1,12 +1,7 @@
 # exploratory-analyses
 Repository with snippets for exploratory analysis and personal projects
 
-Websites to download datasets:
-
-# Data Sources
-
-## Links
-
+## Data Sources
 - [World Bank Indicator Data](https://data.worldbank.org/indicator/)
 - [Euromonitor Brazil](https://www.euromonitor.com/brazil)
 - [Microdados ENEM](http://portal.inep.gov.br/microdados)
@@ -16,8 +11,7 @@ Websites to download datasets:
 - [The World Bank Data](http://data.worldbank.org/)
 - [United States Government Data](http://www.data.gov/)
 
-## Additional Resources
-
+### Additional Resources
 - [Microdados ENEM YouTube Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGs3eGd1WEtTQ2stdzBYbVNyQ0s1d1RpNm10QXxBQ3Jtc0tuVWd4cGdhdW5VZllKNWM3a3pVVDBGT19mdWVZbmxmWTYzMk42dFdpUXRkTDN2eTRZOWF5Y3ZsNXdsU3JrWjhzdzNPOUFnOWhvb194amtNWlVfRXI0bmswTXVCTWc5MFo3bXl2a2RXRl9ZU2tUdmRWaw&q=http%3A%2F%2Fportal.inep.gov.br%2Fmicrodados&v=RlGOaSPFtXc)
 - [Portal Brasileiro de Dados Abertos YouTube Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWhEQXJCMjRGTE1EaktMZ1UxM0xzamVPanBrZ3xBQ3Jtc0tucEItQ1dvZTZOWDRtVl9DaHhiLS1KT204b1NYNHJCMW9oNW5IallaRlFfeWRXWXVfY2VUOXlIQldVT3dFYktaak5QRmZyN3RJSGdiWUhyRmp5c0ZUMzFDWXpUVG5RMGRvdGRoaG44Q1FqZlh6ekJmYw&q=http%3A%2F%2Fdados.gov.br%2F&v=RlGOaSPFtXc)
 - [Datahub YouTube Link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHZDTGNhY1JydTRNNHZrOUJJSVd6a3hwN0FuQXxBQ3Jtc0trQ0hma3czVUtWelliZk81ckZuTVItazd5SnFzMUNzOE81bWxxU0VPWXhpeUhfa3dTdjcyRVFKbko1T1puOW8wamFRa3hTbmlYVlhXYWV0QS1NZ08tQXRWSmEzV2lxRVR5WGdXci1BQXhDUkxZcXZJQQ&q=http%3A%2F%2Fdatahub.io%2F&v=RlGOaSPFtXc)
